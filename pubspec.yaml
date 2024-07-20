@@ -1,7 +1,7 @@
-name: image_viewer
+name: webhozz_image_viewer
 description: "Simple image viewer."
 version: 0.0.1
-homepage:
+homepage: https://github.com/mchairul/image_viewer
 
 environment:
   sdk: '>=3.4.3 <4.0.0'

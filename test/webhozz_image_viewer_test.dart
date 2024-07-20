@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:image_viewer/image_viewer.dart';
+import 'package:webhozz_image_viewer/webhozz_image_viewer.dart';
 
 void main() {
   test('adds one to input values', () {
